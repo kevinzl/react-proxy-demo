@@ -1,0 +1,12 @@
+{
+  "code": 0,
+  "data":{
+    "userInfo":{
+      "name":"Leo",
+      "age":"26",
+      "hometown":"ShenZhen",
+      "job":"computer programmer",
+      "fav":"Money"
+    }
+  }
+}

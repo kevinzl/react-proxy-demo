@@ -1,0 +1,14 @@
+{
+  "code": 0,
+  "data":{
+    "planInfo": {
+      "id":8,
+      "planTitle":"react boss小应用demo",
+      "planContent":"react+router+redux+express+mongdb+node",
+      "createTime":"2018-07-12",
+      "deadlineTime":"2018-08-12",
+      "planStatus":0,
+      "expiredStatus":0
+    }
+  }
+}
